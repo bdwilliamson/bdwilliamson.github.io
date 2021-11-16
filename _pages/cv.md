@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+A complete curriculum vitae in pdf format is available here.
 
 {% include base_path %}
 
@@ -15,11 +17,20 @@ Education
 * MS in Biostatistics, University of Washington, 2017
 * BA in Mathematics, Pomona College, 2014
 
-Professional experience
+Professional Experience
 ======
 * Assistant Investigator, Biostatistics Unit, Kaiser Permanente Washington Health Research Institute, 09/2021--Present
 
 * Postdoctoral Research Fellow, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, 01/2020--09/2021
+
+Awards and Honors
+======
+
+Professional Service
+======
+
+Professional Affiliations
+======
 
 <!-- Publications
 ======
