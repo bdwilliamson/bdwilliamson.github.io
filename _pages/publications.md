@@ -1,16 +1,14 @@
 ---
-layout: archive
+#layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For a complete list of publications, please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=k4RWx44AAAAJ), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/brian.williamson.1/bibliography/public/), or [ORCID](https://orcid.org/0000-0002-7024-548X).
 
-{% include base_path %}
+Statistical Methodology
+------
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Collaborative Science
+------

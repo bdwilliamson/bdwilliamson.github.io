@@ -92,7 +92,7 @@ with age-discordant partnerships (one partner greater than 5 years older
 than the other) and examine the association between partner age
 discordance and HIV risk in young South African women. We found that a
 history of age-discordant partnerships is associated witih greater odds
-of reporting HIV risk factors ([Ritchwood et al., 2016](https://doi.org/10.1097/QAI.00000000000000988)).
+of reporting HIV risk factors ([Ritchwood et al., 2016](https://doi.org/10.1097/QAI.0000000000000988)).
 
 HPTN 063 was a clinical trial that aimed to examine potential HIV
 transmissions and the frequency of bacterial sexually transmitted
@@ -113,4 +113,4 @@ subpopulations of cells; create a nested effects model to infer gene
 hierarchy based on perturbation effects due to administered drugs; and
 create a scoring and ranking algorithm that identifies the minimal
 number of drugs among a combination of drugs with teh maximal desired
-intracellular effects ([Anchang et al., 2018](https://doi.org/10.1073/pnas.1711365115)). 
+intracellular effects ([Anchang et al., 2018](https://doi.org/10.1073/pnas.1711365115)).
