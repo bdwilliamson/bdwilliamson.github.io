@@ -84,6 +84,10 @@ author:
   avatar           : "avatar.jpg"
   bio              : "he/him/his, biostatistician"
   location         : "Seattle, WA"
+  links:
+      - label: "arXiv"
+        icon: "ai arxiv"
+        url: "https://arxiv.org/a/0000-0002-7024-548X"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/brian.williamson.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=k4RWx44AAAAJ"
@@ -115,7 +119,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  arxiv            : "https://arxiv.org/a/0000-0002-7024-548X"
+
 
 
 # Reading Files
