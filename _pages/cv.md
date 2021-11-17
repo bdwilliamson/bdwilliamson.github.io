@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A complete curriculum vitae in pdf format is available here.
+A complete curriculum vitae in pdf format is available [here](https://bdwilliamson.github.io/files/williamson_cv.pdf).
 
 {% include base_path %}
 
@@ -25,12 +25,32 @@ Professional Experience
 
 Awards and Honors
 ======
+* 06/2019: Exceptional Service in Biostatistics Award, UW Department of Biostatistics
+* 04/2019: [Nonparametrics Section Travel Award](https://community.amstat.org/nonparametricstatisticssection/paper-awards), American Statistical Association (ASA)
+* 09/2018: Excellence in Teaching Award, UW Department of Biostatistics
+* 01/2018: [Biometrics Section Travel Award](https://community.amstat.org/biometricsbiom/award/byaraward/2018byaraward), ASA
+* 06/2017: [Most Outstanding Oral Paper Award](https://wnar.org/WNAR-Student-Competition), Western North American Region (WNAR) of the International Biometric Society
+* 09/2014: Top Scholar Incoming Student Award, UW Department of Biostatistics
+* 05/2014: Distinction in the Senior Exercise, Pomona College
 
 Professional Service
 ======
 
+Peer review of manuscripts:
+* Journal of Machine Learning Research
+* International Conference on Learning Representations (ICLR)
+* Journal of the American Statistical Association
+* Neural Information Processing Systems (NeurIPS)
+* Observational Studies
+* Data Mining and Knowledge Discovery
+* Epidemiology
+* International Journal of Biostatistics
+
 Professional Affiliations
 ======
+
+* American Statistical Association
+* WNAR of the International Biometric Society
 
 <!-- Publications
 ======
