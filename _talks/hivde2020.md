@@ -8,6 +8,6 @@ date: 2020-05-13
 location: "Virtual"
 ---
 
-[Slides](files/talks/williamson_slapnap_hivde_2020.pdf)
-
 Contributed talk at the 27th International Dynamics and Evolution of HIV and Other Human Viruses Meeting on SLAPNAP (see publications).
+
+[Slides](files/talks/williamson_slapnap_hivde_2020.pdf)
