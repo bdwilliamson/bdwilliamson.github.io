@@ -13,15 +13,15 @@ A complete curriculum vitae in pdf format is available [here](https://bdwilliams
 
 Education
 ======
-* PhD in Biostatistics, University of Washington, 2019
-* MS in Biostatistics, University of Washington, 2017
-* BA in Mathematics, Pomona College, 2014
+* 2014--2019: PhD in Biostatistics, University of Washington
+* 2014--2017: MS in Biostatistics, University of Washington
+* 2010--2014: BA in Mathematics, Pomona College
 
 Professional Experience
 ======
-* Assistant Investigator, Biostatistics Unit, Kaiser Permanente Washington Health Research Institute, 09/2021--Present
+* 09/2021--Present: Assistant Investigator, Biostatistics Unit, Kaiser Permanente Washington Health Research Institute
 
-* Postdoctoral Research Fellow, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, 01/2020--09/2021
+* 01/2020--09/20201: Postdoctoral Research Fellow, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center
 
 Awards and Honors
 ======
