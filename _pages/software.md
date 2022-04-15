@@ -23,7 +23,7 @@ R (`vimp`) and Python (`vimpy`) packages for performing inference on algorithm-a
 R package for performing flexible variable selection.
 
 [`flevr`](https://github.com/bdwilliamson/flevr)
-[GitHub](https://github.com/bdwilliamson/flevr) |
+[GitHub](https://github.com/bdwilliamson/flevr)
 
 ## estimating microbial abundance
 
