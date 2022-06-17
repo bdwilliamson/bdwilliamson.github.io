@@ -20,7 +20,7 @@ Education
 Professional Experience
 ======
 * 09/2021--Present: Assistant Investigator, Biostatistics Division, Kaiser Permanente Washington Health Research Institute
-* 01/2022--Present: Affiliate Investigator, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center
+* 01/2022--Present: Affiliate Investigator, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center
 
 * 01/2020--09/2021: Postdoctoral Research Fellow, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center
 
@@ -38,15 +38,18 @@ Professional Service
 ======
 
 Peer review of manuscripts:
-* International Conference on Machine Learning (ICML)
-* Journal of Machine Learning Research
-* International Conference on Learning Representations (ICLR)
-* Journal of the American Statistical Association
-* Neural Information Processing Systems (NeurIPS)
-* Observational Studies
+* Biometrics
 * Data Mining and Knowledge Discovery
 * Epidemiology
+* International Conference on Learning Representations (ICLR)
+* International Conference on Machine Learning (ICML)
 * International Journal of Biostatistics
+* Journal of the American Statistical Association (Theory & Methods)
+* Journal of Machine Learning Research
+* Journal of the Royal Statistical Society: Series B (Statistical Methodology)
+* Neural Information Processing Systems (NeurIPS)
+* Observational Studies
+* Vaccine
 
 Professional Affiliations
 ======
