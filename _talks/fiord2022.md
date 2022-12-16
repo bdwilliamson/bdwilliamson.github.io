@@ -9,3 +9,5 @@ location: "Washington, DC"
 ---
 
 I discuss a framework for predicting safety outcomes of interest within the FDA's Sentinel system using data from electronic health records.
+
+[Slides](https://www.sentinelinitiative.org/news-events/publications-presentations/scalable-phenotyping-safety-outcomes-using-electronic-health)

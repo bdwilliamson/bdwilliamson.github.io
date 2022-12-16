@@ -9,3 +9,5 @@ location: "London, UK"
 ---
 
 I discuss a framework for inference on general model-agnostic variable importance measures and possible summary measures for longitudinal variable importance.
+
+[Slides](https://bdwilliamson.github.io/lvim/)
