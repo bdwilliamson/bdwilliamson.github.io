@@ -21,6 +21,7 @@ Professional Experience
 ======
 * 09/2021--Present: Assistant Investigator, Biostatistics Division, Kaiser Permanente Washington Health Research Institute
 * 01/2022--Present: Affiliate Investigator, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center
+* 03/2023--Present: Affiliate Assistant Professor, Department of Biostatistics, University of Washington
 
 * 01/2020--09/2021: Postdoctoral Research Fellow, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center
 
