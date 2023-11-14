@@ -39,6 +39,7 @@ Professional Service
 ======
 
 Peer review of manuscripts:
+* Annals of Statistics
 * Biometrics
 * Data Mining and Knowledge Discovery
 * Epidemiology
@@ -50,6 +51,7 @@ Peer review of manuscripts:
 * Journal of the Royal Statistical Society: Series B (Statistical Methodology)
 * Neural Information Processing Systems (NeurIPS)
 * Observational Studies
+* Statistics in Medicine
 * Vaccine
 
 Professional Affiliations
