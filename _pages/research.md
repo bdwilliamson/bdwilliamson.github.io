@@ -18,6 +18,8 @@ tool towards this goal. Examples include: HIV vaccine studies,
 correlates of risk analyses, and identifying patients at high risk of
 returning to a hospital after discharge for heart failure. I first considered inference on a model-free generalization of the commonly-used R-squared measure ([Williamson et al., 2020](https://doi.org/10.1111/biom.13392), [Feng et al., 2018](https://proceedings.mlr.press/v80/feng18a.html)). Next, I considered a general framework for inference on model-agnostic variable importance ([Williamson et al., 2021](https://doi.org/10.1080/01621459.2021.2003200)). We have further extended this framework to handle potentially correlated variables using Shapley values ([Williamson and Feng, 2020](https://proceedings.mlr.press/v119/williamson20a.html)).
 
+I consider summaries of longitudinal variable importance trajectories in [Williamson et al., 2023+](https://arxiv.org/pdf/2311.01638.pdf).
+
 ## Bayesian Methods
 
 In this work, we propose a statistical method for combining inexpensive
@@ -65,7 +67,7 @@ predicting whether or not an HIV virus was sensitive to neutralization
 by VRC01, and (ii) to identify groups of HIV genome features that were
 important in predicting neutralization sensitivity ([Magaret et al., 2019](https://doi.org/10.1371/journal.pcbi.1006952)). The latter objective will prioritize regions of the HIV-1 genome to test for differential vaccine efficacy in downstream sieve analyses. We have extended the methods used for the VRC01 analysis to combinations
 of antibodies – a prevention strategy involving multiple bnAbs is likely
-to be much more effective than a strategy with a single bnAb ([Williamson et al., 2021](https://doi.org/10.1093/bioinformatics/btab398)).
+to be much more effective than a strategy with a single bnAb ([Williamson et al., 2021](https://doi.org/10.1093/bioinformatics/btab398)); this includes a software tool, SLAPNAP (Super LeArner Prediction of NAb Panels). We applied SLAPNAP to bnAb regimens in clinical testing, finding good prediction performance and that SLAPNAP can improve power for downstream sieve analysis [Williamson et al., 2023](https://www.cell.com/iscience/pdf/S2589-0042(23)01672-3.pdf).
 
 ### Immune Correlates of Risk and Surrogate Endpoints
 

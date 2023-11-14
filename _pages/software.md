@@ -18,6 +18,11 @@ R (`vimp`) and Python (`vimpy`) packages for performing inference on algorithm-a
 [GitHub](https://github.com/bdwilliamson/vimpy) |
 [PyPI](https://pypi.org/project/vimpy/)
 
+R package for performing inference on summaries of longitudinal variable importance parameters.
+
+[`lvimp`](https://github.com/bdwilliamson/lvimp)
+[GitHub](https://github.com/bdwilliamson/lvimp)
+
 ## variable selection
 
 R package for performing flexible variable selection.
