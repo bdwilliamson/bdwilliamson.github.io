@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: true
+---
+
 # current students
 * Charlotte Hong: MS candidate in Biostatistics, University of Washington
 * Runjia Zou: PhD student in Biostatistics, University of Washington (with RY Coley and D Witten)
