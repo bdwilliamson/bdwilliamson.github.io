@@ -52,6 +52,14 @@ characteristics of the active control participants ([Hanscom et al., 2018](https
 Collaborative Science
 ------
 
+## Prediction models for pharmacosurveillance
+
+At KPWHRI, I contribute my expertise in machine learning to pharmacosurveillance studies. In these studies, for example the United States Food and Drug Administration’s Sentinel Initiative, a goal is for routinely collected data to be used to develop prediction models to classify a patient as having had an event of interest (e.g., anaphylaxis) without having to manually review the patient’s chart. This has proven difficult for many conditions, including anaphylaxis, especially when using medical claims data alone. I am involved in two projects researching ways of including natural language processing (NLP) extracted data from unstructured text in the EHR to improve performance of prediction models. In one project, we propose a general framework for developing prediction models using EHR data ([Carrell et al., 2024](https://doi.org/10.1093/jamia/ocae121)). The framework identifies the main steps in this pipeline – assessing whether the scientific or safety question can be answered using the available data; creating gold standard data; engineering features for use in modeling; model development; and model evaluation and reporting – and discusses key considerations at each step. In the second project, we developed a model that used NLP-extracted and structured data from the EHR to identify individuals who had experienced symptomatic COVID-19 ([Smith et al., 2023](https://doi.org/10.1093/jamia/ocad241)).
+
+## Pragmatic clinical trials
+
+As part of my collaborative work at KPWHRI, I provide statistical support to pragmatic clinical trials. One trial assessed the effect of tailored vaccine promotion materials on COVID-19 booster vaccination rates among staff at long-term care centers ([Hsu et al., 2024](https://doi.org/10.1016/j.cct.2023.107403)). I led an investigation showing that cluster-level tests for heterogeneity of treatment effects (HTE) based on a cluster-level proportion of an individual-level variable (e.g., self-reported race) have low power ([Williamson et al., 2023](https://doi.org/10.1007/s11121-023-01606-1)). A second trial assessed the effect of a health system-embedded deprescribing intervention focused on central nervous system-active medications on the incidence of medically treated falls among community-dwelling older adults; I led the analysis of the falls outcome ([Balderson et al., 2023](https://doi.org/10.1186/s13063-023-07336-7); [Phelan et al., 2024](https://doi.org/10.1001/jamanetworkopen.2024.24234)).
+
 ## Infectious Diseases
 
 ### Broadly Neutralizing Antibodies
