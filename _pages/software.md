@@ -18,9 +18,9 @@ R (`vimp`) and Python (`vimpy`) packages for performing inference on algorithm-a
 [GitHub](https://github.com/bdwilliamson/vimpy) |
 [PyPI](https://pypi.org/project/vimpy/)
 
-R package for performing inference on summaries of longitudinal variable importance parameters.
+R package (`lvimp`) for performing inference on summaries of longitudinal variable importance parameters.
 
-[`lvimp`](https://github.com/bdwilliamson/lvimp)
+[<img src="https://bdwilliamson.github.io/images/lvimp_logo.png" title="lvimp logo" id="id" class="class" width="100" height="100" alt="lvimp logo" />](https://github.com/bdwilliamson/lvimp)
 [GitHub](https://github.com/bdwilliamson/lvimp)
 
 ## variable selection
@@ -39,9 +39,8 @@ R package for doing inference on microbial abundance.
 
 ## broadly neutralizing antibodies
 
-Docker container for estimating HIV-1 neutralization sensitivity to broadly neutralizing antibodies.
+Super LeArner Prediction of NAb Panels (SLAPNAP) Docker container for estimating HIV-1 neutralization sensitivity to broadly neutralizing antibodies.
 
-[Super LeArner Prediction of NAb Panels
-(SLAPNAP)](https://github.com/benkeser/slapnap)
+[<img src="https://bdwilliamson.github.io/images/slapnap_gp120.png" title="SLAPNAP gp120 logo" id="id" class="class" width="100" height="100" alt="SLAPNAP gp120 logo" />](https://github.com/benkeser/slapnap)
 [GitHub](https://github.com/benkeser/slapnap) |
 [DockerHub](https://hub.docker.com/r/slapnap/slapnap)
