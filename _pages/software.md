@@ -21,14 +21,17 @@ R (`vimp`) and Python (`vimpy`) packages for performing inference on algorithm-a
 R package (`lvimp`) for performing inference on summaries of longitudinal variable importance parameters.
 
 [<img src="https://bdwilliamson.github.io/images/lvimp_logo.png" title="lvimp logo" id="id" class="class" width="100" height="100" alt="lvimp logo" />](https://github.com/bdwilliamson/lvimp)
-[GitHub](https://github.com/bdwilliamson/lvimp)
+[Docs](https://bdwilliamson.github.io/lvimp/) | 
+[GitHub](https://github.com/bdwilliamson/lvimp) |
+[CRAN](https://cran.r-project.org/package=lvimp)
 
 ## variable selection
 
 R package for performing flexible variable selection.
 
-[`flevr`](https://github.com/bdwilliamson/flevr)
-[GitHub](https://github.com/bdwilliamson/flevr)
+[<img src="https://bdwilliamson.github.io/images/flevr_logo.png" title="flevr logo" id="id" class="class" width="100" height="100" alt="flevr logo" />](https://github.com/bdwilliamson/flevr)
+[GitHub](https://github.com/bdwilliamson/flevr) | 
+[CRAN](https://cran.r-project.org/package=flevr)
 
 ## estimating microbial abundance
 
