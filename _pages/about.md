@@ -10,7 +10,7 @@ redirect_from:
 
 Pronouns: _he/him/his_. Pronunciation: _bry-en will-yum-son_
 
-I am an Assistant Investigator in [Biostatistics](https://www.kpwashingtonresearch.org/our-research/research-areas/biostatistics) at [Kaiser Permanente Washington Health Research Institute](https://www.kpwashingtonresearch.org/) (KPWHRI).
+I am an Associate Investigator in [Biostatistics](https://www.kpwashingtonresearch.org/our-research/research-areas/biostatistics) at [Kaiser Permanente Washington Health Research Institute](https://www.kpwashingtonresearch.org/) (KPWHRI).
 
 I completed my doctoral studies in
 [Biostatistics](https://www.biostat.washington.edu/) at the [University

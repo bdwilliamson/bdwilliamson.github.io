@@ -19,7 +19,8 @@ Education
 
 Professional Experience
 ======
-* 09/2021--Present: Assistant Investigator, Biostatistics Division, Kaiser Permanente Washington Health Research Institute
+* 12/2025--Present: Associate Investigator, Biostatistics Division, Kaiser Permanente Washington Health Research Institute
+* 09/2021--11/2025: Assistant Investigator, Biostatistics Division, Kaiser Permanente Washington Health Research Institute
 * 01/2022--Present: Affiliate Investigator, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center
 * 03/2023--Present: Affiliate Assistant Professor, Department of Biostatistics, University of Washington
 
