@@ -20,6 +20,10 @@ returning to a hospital after discharge for heart failure. I first considered in
 
 I consider summaries of longitudinal variable importance trajectories in [Williamson et al., 2023+](https://arxiv.org/pdf/2311.01638.pdf).
 
+## Missing and Mismeasured Data
+
+Missing data are common in many applications. I have developed methods for variable selection using flexible prediction models in missing-data settings ([Williamson and Huang, 2024](https://doi.org/10.1515/ijb-2023-0059)) and have conducted a large methods comparison of traditional and doubly-robust methods ([Williamson et al., 2025](https://doi.org/10.1002/sim.70366)). I have also worked on prediction model evaluation when outcomes are misclassified ([Zou et al., 2025]()).
+
 ## Bayesian Methods
 
 In this work, we propose a statistical method for combining inexpensive

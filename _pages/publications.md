@@ -24,6 +24,8 @@ Statistical Methodology
 
 Collaborative Science
 ------
+0. **Williamson BD**, Krakauer C, Johnson E, Gruber S, Shepherd BE, van der Laan MJ, Lumley T, Lee H, Hernandez-Muñoz J, Zhao F, Dutcher SK, Desai R, Simon GE, Shortreed SM, Nelson JC, and Shaw PA. [Assessing treatment effects in observational data with missing confounders: a comparative study of practical doubly-robust and traditional missing data methods](https://doi.org/10.1002/sim.70366). _Statistics in Medicine_, 2025.
+0. Minus E, Coley RY, Shortreed SM, and **Williamson BD**. [Behavior of prediction performance metrics with rare events](https://doi.org/10.1016/j.jclinepi.2025.112046). _Journal of Clinical Epidemiology_, 2025.
 0. **Williamson BD**, King D, and Huang Y. [Practical considerations for variable screening in the super learner](https://arxiv.org/pdf/2311.03313.pdf). _New England Journal of Statistics in Data Science_, 2025.
 1. Cohen P, Lambson B, Mkhize N, Moodley C, Yssel A, Moyo-Gwete T, York T, Washu-nyangiwe A, Ndabambi N, Thebus R, Juraska M, deCamp A, **Williamson B**, Magaret C, Gilbert P, Westfall D, Deng W, Mullins J, Morris L, Williamson C, and Moore P. [Resistance mutations that distinguish HIV-1 envelopes with discordant VRC01 phenotypes from multi-lineage infections in the HVTN703/HPTN081 trial: implications for cross-resistance](https://doi.org/10.1128/jvi.01730-24). _Journal of Virology_, 2025.
 2. Wolock CJ, **Williamson BD**, Shortreed SM, Simon GE, Coleman KJ, Yeargans Y, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, and Coley RY. [Importance of variable s from different time frames for predicting self-harm using health system data](https://doi.org/10.1016/j.jbi.2024.104750). _Journal of Biomedical Informatics_, 2024.
