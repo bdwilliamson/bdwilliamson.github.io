@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # current students
+* Shuhe Wang: MS candidate in Biostatistics, University of Washington
 * Suyang Yu: MS candidate in Statistics, University of Washington
 * Yucheng Zhao: MS candidate in Statistics, University of Washington
 * Runjia Zou: PhD student in Biostatistics, University of Washington (with RY Coley and D Witten)
