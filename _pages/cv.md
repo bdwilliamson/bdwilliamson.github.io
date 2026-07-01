@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A complete curriculum vitae in pdf format is available [here](https://bdwilliamson.github.io/files/williamson_cv.pdf).
+A complete curriculum vitae in pdf format is available [here](https://bdwilliamson.github.io/files/williamson_augmented_cv.pdf).
 
 {% include base_path %}
 
@@ -22,7 +22,8 @@ Professional Experience
 * 12/2025--Present: Associate Investigator, Biostatistics Division, Kaiser Permanente Washington Health Research Institute
 * 09/2021--11/2025: Assistant Investigator, Biostatistics Division, Kaiser Permanente Washington Health Research Institute
 * 01/2022--Present: Affiliate Investigator, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center
-* 03/2023--Present: Affiliate Assistant Professor, Department of Biostatistics, University of Washington
+* 07/2026--Present: Affiliate Associate Professor, Department of Biostatistics, University of Washington
+* 03/2023--06/2026: Affiliate Assistant Professor, Department of Biostatistics, University of Washington
 
 * 01/2020--09/2021: Postdoctoral Research Fellow, Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center
 
