@@ -6,12 +6,13 @@ author_profile: true
 ---
 
 # current students
-* Shuhe Wang: MS candidate in Biostatistics, University of Washington
-* Suyang Yu: MS candidate in Statistics, University of Washington
-* Yucheng Zhao: MS candidate in Statistics, University of Washington
-* Runjia Zou: PhD student in Biostatistics, University of Washington (with RY Coley and D Witten)
+* Xiao Wu: PhD student in Biostatistics, University of Washington
+* Shuhe Wang: PhD student in Biostatistics, University of Washington
+* Runjia Zou: PhD student in Biostatistics, University of Washington
 
 # alumni and former students
+* Suyang Yu: MS in Statistics, University of Washington, 2026
+* Yucheng Zhao: MS in Statistics, University of Washington, 2026
 * Charlotte Hong: MS in Biostatistics, University of Washington, 2025 (with J Nelson)
 * Emily Minus: MS in Biostatistics, University of Washington, 2023 (with RY Coley)
 * Liana Wu: undergraduate researcher, University of Washington, 2023 
