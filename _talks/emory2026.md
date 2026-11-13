@@ -10,4 +10,4 @@ location: "Atlanta, GA, United States"
 
 I discuss an extension of generalized raking based on influence functions to estimate marginal parameters (e.g., the average treatment effect), which is more robust to model misspecification than prior methods.
 
-[Slides](https://github.com/bdwilliamson/marginal_raking/blob/main/marginal_raking.pdf)
+[Slides](https://github.com/bdwilliamson/marginal_raking_long/blob/main/marginal_raking.pdf)
